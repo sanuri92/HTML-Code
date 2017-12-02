@@ -1,0 +1,55 @@
+.back{background-image:url('ay109217682epa03687452-cycl.jpg');
+	background-size:1000px 1000px
+	}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+
+}
+a {
+    display: block;
+    width: 150px;
+    background-color: #00ffff;
+	text-align:center;
+	color:#FF0000;
+}
+h1.home{
+	background-color:#00ffff;
+	text-align:center;
+	display: block ;
+	width: 200px;
+	color:#FF0000;
+	align:center;
+	margin: 4px 12px;
+	padding: 2px;
+	line-height: 1.1em;
+	height: 1.2em;
+	background: #00ffff;
+}
+.Bmargin {
+    text-align:center;
+	margin-top: 30px;
+    margin-bottom: 50px;
+    margin-right: 550px;
+    margin-left: 500px;
+	border-style: solid;
+    border-width: 1px;
+}
+.vertical {
+    position: absolute;
+    right: -450px;
+    background-color:#00ffff;
+    padding: 20px;
+    border-radius: 5px 5px 0 0;
+	color:#FF0000;
+    float: right;
+    -webkit-transform: rotate(270deg);  
+	width:1150px;
+	height:5px;
+	
+} 
